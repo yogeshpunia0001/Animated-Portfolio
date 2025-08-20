@@ -71,7 +71,7 @@ export default function Hero() {
           {/* Description */}
           <div className="mb-12 animate-slide-in-up" style={{ animationDelay: "0.4s" }}>
             <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Frontend Developer with hands-on experience in building responsive, user-friendly applications. 2025 Summer Intern at DRDO, skilled in crafting clean and interactive interfaces with strong focus on usability, accessibility, and performance. Experienced in developing secure authentication systems, dynamic portfolio websites, and proficient in frontend technologies with a solid foundation in Data Structures & Algorithms.
+              Frontend Developer with hands-on experience in building responsive, user-friendly applications. 2024 Summer Intern at DRDO, skilled in crafting clean and interactive interfaces with strong focus on usability, accessibility, and performance. Experienced in developing secure authentication systems, dynamic portfolio websites, and proficient in frontend technologies with a solid foundation in Data Structures & Algorithms.
             </p>
           </div>
 
