@@ -151,7 +151,7 @@ export default function Projects() {
           {/* View more button */}
           <div className="text-center mt-12 scroll-animate">
             <a
-              href="https://github.com/himanshimann" // <-- Replace with your actual GitHub profile or repo link
+              href="#" 
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block"
