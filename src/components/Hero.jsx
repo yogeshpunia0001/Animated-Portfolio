@@ -53,7 +53,7 @@ export default function Hero() {
           <div className="mb-6 animate-slide-in-up">
             <h1 className="text-5xl md:text-7xl font-bold mb-4">
               <span className="text-foreground">Hi, I'm </span>
-              <span className="gradient-text animate-pulse-glow">Himanshi Mann</span>
+              <span className="gradient-text animate-pulse-glow">Yogesh Kumar</span>
             </h1>
           </div>
 
@@ -71,7 +71,7 @@ export default function Hero() {
           {/* Description */}
           <div className="mb-12 animate-slide-in-up" style={{ animationDelay: "0.4s" }}>
             <p className="text-lg md:text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Frontend Developer with hands-on experience in building responsive, user-friendly applications. 2024 Summer Intern at DRDO, skilled in crafting clean and interactive interfaces with strong focus on usability, accessibility, and performance. Experienced in developing secure authentication systems, dynamic portfolio websites, and proficient in frontend technologies with a solid foundation in Data Structures & Algorithms.
+              Frontend Developer with hands-on experience in building responsive, scalable, and high-performing web applications. Currently a Trainee at Fonix Technologies, with prior internship experience at Cosmo Logic IT Solutions. Skilled in ReactJS, Tailwind CSS, and RESTful APIs with strong expertise in UI architecture, AWS deployment, and API integration. Proven track record of reducing load times, optimizing performance, and delivering user-friendly solutions — from AI-powered hotel management systems to real-time grocery platforms. Solid foundation in Data Structures & Algorithms, with a strong focus on usability, accessibility, and maintainability.
             </p>
           </div>
 

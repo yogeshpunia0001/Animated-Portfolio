@@ -18,22 +18,14 @@ export default function Skills() {
       ],
     },
     {
-      title: "Development Arsenal",
+      title: "Development Workflow",
       skills: [
       
         { name: "Git & GitHub", level: 89, color: "bg-primary" },
         { name: "Webpack & Vite", level: 82, color: "bg-secondary" },
         { name: "Figma & Design", level: 85, color: "bg-accent" },
         { name: "Performance Optimization", level: 91, color: "bg-primary" },
-      ],
-    },
-    {
-      title: "Other Full-Stack Skills",
-      skills: [
-        // { name: "Node.js", level: 84, color: "bg-secondary" },
-        // { name: "Express.js", level: 80, color: "bg-accent" },
         { name: "SQL", level: 78, color: "bg-primary" },
-        { name: "PHP", level: 87, color: "bg-secondary" },
         { name: "Testing & Debugging", level: 83, color: "bg-accent" },
       ],
     },
@@ -83,7 +75,7 @@ export default function Skills() {
             </p>
           </div>
 
-          <div className="grid lg:grid-cols-3 gap-8">
+          <div className="grid md:grid-cols-2 gap-8">
             {skillCategories.map((category, categoryIndex) => (
               <div
                 key={category.title}

@@ -54,7 +54,7 @@ export default function Header() {
       <nav className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="animate-slide-in-left">
-            <h1 className="text-2xl font-bold gradient-text">Himanshi Mann</h1>
+            <h1 className="text-2xl font-bold gradient-text">Yogesh Kumar</h1>
           </div>
 
           <div className="hidden md:flex space-x-8 animate-slide-in-right">

@@ -23,7 +23,7 @@ export default function Contact() {
     
     try {
       // Using getform.io - you can create a free account and get your form endpoint
-      await axios.post("https://getform.io/f/bxozwrxa", userInfo)
+      await axios.post("https://getform.io/f/brogvnea", userInfo)
       toast.success("Thank you for your message! I'll get back to you soon.")
       reset() // Reset form fields
     } catch (error) {

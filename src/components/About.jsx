@@ -13,10 +13,12 @@ export default function About() {
               <div className="bg-card rounded-2xl p-8 hover-lift">
                 <h3 className="text-2xl font-bold mb-6 text-primary">My Journey</h3>
                 <p className="text-muted-foreground leading-relaxed mb-6">
-                  My journey in tech began with a passion for building clean, interactive websites that create engaging user experiences. From early projects like a CGPA/SGPA calculator and an expense tracker to a secure login system, I explored how design and functionality come together to solve real problems. Each project taught me not only technical skills but also the importance of usability and performance.
+                My journey in tech began with building my first project, an EV Pump platform, where I explored how design and functionality can solve real-world problems. This hands-on experience sparked my passion for creating responsive and user-friendly applications.
+
+I then joined Cosmo Logic IT Solutions as a Frontend Development Intern, where I worked on real-time live projects. One of the highlights was independently handling the frontend of a scalable grocery web application, integrating RESTful APIs and optimizing performance to deliver a smooth user experience.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                 In 2024, I had the incredible opportunity to intern at DRDO, where I developed responsive, secure web solutions and collaborated with a team of developers to improve system efficiency. Working in groups at both college and professional levels has helped me take on leadership roles, contribute ideas, and guide teammates toward successful outcomes. These experiences strengthened my confidence as a frontend developer, blending technical depth with collaboration and problem-solving.
+                 Currently, I am a Trainee at Fonix Technologies, where I lead independent frontend projects, interact with clients, and ensure delivery of scalable solutions. I have contributed to 10+ live projects, including a hotel management system with AI chatbot support, role-based dashboards, and secure Stripe payments. These experiences have strengthened my skills in React.js, Next.js , Tailwind CSS, and API integration, while also giving me confidence in handling end-to-end frontend development with a strong focus on usability, performance, and collaboration.
                 </p>
               </div>
             </div>
@@ -121,42 +123,75 @@ export default function About() {
               <h3 className="text-2xl font-bold mb-8 text-primary">Professional Experience</h3>
 
               <div className="border-l-4 border-primary/30 pl-6">
-                <div className="mb-6">
-                  <h4 className="text-xl font-semibold text-foreground mb-2">Project Intern</h4>
+                <div className="mb-8">
+                  <h4 className="text-xl font-semibold text-foreground mb-2">🚀 Frontend Development Trainee</h4>
                   <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
-                    <p className="text-primary font-medium">Defence Research and Development Organisation (DRDO)</p>
-                    <p className="text-muted-foreground text-sm">05/2024 – 06/2024</p>
+                    <p className="text-primary font-medium">Fonix Technologies</p>
+                    <p className="text-muted-foreground text-sm">Apr 2025 – Present | Jaipur</p>
+                  </div>
+
+                  <p className="text-muted-foreground leading-relaxed mb-4 italic">
+                    Joined as a Frontend Development Intern, and promoted early to Trainee in just 5 months (1 month ahead of the standard 6-month track) for exceptional ownership, performance, and technical contribution.
+                  </p>
+
+                  <ul className="space-y-3 text-muted-foreground">
+                    <li className="flex items-start">
+                      <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                      <span>
+                        Led development of 7+ responsive web solutions, including an AI-integrated chatbot and multi-role hotel management dashboards.
+                      </span>
+                    </li>
+                    <li className="flex items-start">
+                      <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                      <span>
+                        Collaborated with 5+ client teams, improving post-deployment satisfaction by 23% through consistent design and optimized performance.
+                      </span>
+                    </li>
+                    <li className="flex items-start">
+                      <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                      <span>
+                        Integrated secure Stripe payments and i18n (multi-language) support, enabling scalable and global-ready products.
+                      </span>
+                    </li>
+                    <li className="flex items-start">
+                      <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
+                      <span>
+                        Architected modular, reusable ReactJS components, reducing development time for new modules by 15%.
+                      </span>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className="mb-6">
+                  <h4 className="text-xl font-semibold text-foreground mb-2"> 💡Frontend Development Intern</h4>
+                  <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-4">
+                    <p className="text-primary font-medium">Cosmo Logic IT Solutions Pvt. Ltd.</p>
+                    <p className="text-muted-foreground text-sm">Nov 2024 – Mar 2025 | Greater Noida</p>
                   </div>
 
                   <ul className="space-y-3 text-muted-foreground">
                     <li className="flex items-start">
                       <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                       <span>
-                        Developed and maintained responsive web interfaces using HTML, CSS, and JavaScript, ensuring
-                        100% cross-device compatibility and improving page load performance by 25%. Implemented PHP and
-                        MySQL integration to support secure workflows and reliable data management.
+                        Contributed to frontend optimization and scalable component design for production ReactJS applications.
                       </span>
                     </li>
                     <li className="flex items-start">
                       <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                       <span>
-                        Enhanced frontend components with a focus on usability and responsive layouts, increasing user
-                        engagement and session duration by 18%.
+                        Optimized core ReactJS components using Tailwind CSS, cutting page load times by 28%.
                       </span>
                     </li>
                     <li className="flex items-start">
                       <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                       <span>
-                        Applied security measures including input validation and SQL injection prevention, reducing
-                        potential vulnerabilities by 30%.
+                        Performed code reviews that reduced production bugs by 8%, enhancing maintainability.
                       </span>
                     </li>
                     <li className="flex items-start">
                       <div className="w-2 h-2 bg-primary rounded-full mt-2 mr-3 flex-shrink-0"></div>
                       <span>
-                        Created and maintained technical documentation, streamlining team onboarding and reducing
-                        troubleshooting time by 20%. Participated in training sessions to strengthen web development
-                        expertise and apply new concepts to ongoing work to improve development efficiency.
+                        Collaborated with senior developers to standardize UI systems and improve performance efficiency.
                       </span>
                     </li>
                   </ul>
